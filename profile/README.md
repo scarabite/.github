@@ -1,11 +1,5 @@
-# Scarabite
+*# Scarabite
 
-<div align="center">
-  <img src="./logo.png" alt="Scarabite Logo">
-</div>
+### *Powering Intelligence From Data to AI-driven Solutions*
 
-> *Powering Intelligence From Data to AI-driven Solutions*
-
-## About
-
-Scarabite is a platform that turns raw data into strategic insights using AI, machine learning, and robust cloud architectures. This repository showcases our open-source projects and tools designed to help you integrate intelligent data extraction and automation into your workflows.
+Scarabite is a platform that turns raw data into strategic insights using AI, machine learning, and robust cloud architectures. This repository showcases our open-source projects and tools designed to help you integrate intelligent data extraction and automation into your workflows.*
