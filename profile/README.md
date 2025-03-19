@@ -1,4 +1,4 @@
-*# Scarabite
+# Scarabite
 
 ### *Powering Intelligence From Data to AI-driven Solutions*
 
